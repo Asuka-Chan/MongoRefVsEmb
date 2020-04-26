@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55c97225-1147-4668-9e33-59108b3d1b17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZBd0slUhoEKZ6jhmydPpH9u2LR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/CourseWork/Semester II/Distributed Systems/Project4Task2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReferenceLargeDS">
+    <configuration name="EmbeddedLargeDS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmbeddedLargeDS" />
+      <module name="MongoDB_RefVsEmb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmbeddedSmallDS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmbeddedSmallDS" />
+      <module name="MongoDB_RefVsEmb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FetchData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FetchData" />
+      <module name="MongoDB_RefVsEmb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceLargeDS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceLargeDS" />
+      <module name="MongoDB_RefVsEmb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceSmallDS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceSmallDS" />
+      <module name="MongoDB_RefVsEmb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TomEE 9.0.30" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 9.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReferenceLargeDS" />
+        <item itemvalue="Application.EmbeddedLargeDS" />
+        <item itemvalue="Application.ReferenceSmallDS" />
+        <item itemvalue="Application.EmbeddedSmallDS" />
+        <item itemvalue="Application.FetchData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55c97225-1147-4668-9e33-59108b3d1b17" name="Default Changelist" comment="" />
+      <created>1584316200225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584316200225</updated>
+      <workItem from="1584316202190" duration="686000" />
+      <workItem from="1584373520020" duration="3240000" />
+      <workItem from="1584480597060" duration="218000" />
+      <workItem from="1584480829323" duration="918000" />
+      <workItem from="1585429235372" duration="45000" />
+      <workItem from="1585938764953" duration="978000" />
+      <workItem from="1585940807117" duration="1455000" />
+      <workItem from="1585954439183" duration="4778000" />
+      <workItem from="1586014587731" duration="1918000" />
+      <workItem from="1587842781120" duration="8608000" />
+      <workItem from="1587917601677" duration="7080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="280" key="FileChooserDialogImpl" timestamp="1586016027810">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="559" y="280" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1586016027810" />
+    <state width="707" height="281" key="GridCell.Tab.0.bottom" timestamp="1587941711522">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="707" height="281" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1587941711522" />
+    <state width="707" height="281" key="GridCell.Tab.0.center" timestamp="1587941711521">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="707" height="281" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1587941711521" />
+    <state width="707" height="281" key="GridCell.Tab.0.left" timestamp="1587941711521">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="707" height="281" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1587941711521" />
+    <state width="707" height="281" key="GridCell.Tab.0.right" timestamp="1587941711521">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="707" height="281" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1587941711521" />
+    <state width="1461" height="317" key="GridCell.Tab.1.bottom" timestamp="1587873163181">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1587873163181" />
+    <state width="1461" height="317" key="GridCell.Tab.1.center" timestamp="1587873163179">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1587873163179" />
+    <state width="1461" height="317" key="GridCell.Tab.1.left" timestamp="1587873163179">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1587873163179" />
+    <state width="1461" height="317" key="GridCell.Tab.1.right" timestamp="1587873163180">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="317" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1587873163180" />
+    <state x="427" y="181" key="NewModule_or_Project.wizard" timestamp="1587942447007">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="427" y="181" key="NewModule_or_Project.wizard/0.0.1504.963@0.0.1504.963" timestamp="1587942447007" />
+    <state x="332" y="113" key="SettingsEditor" timestamp="1587941984268">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="332" y="113" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1587941984268" />
+    <state x="446" y="213" width="612" height="536" key="find.popup" timestamp="1587858731085">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="446" y="213" width="612" height="536" key="find.popup/0.0.1504.963@0.0.1504.963" timestamp="1587858731085" />
+    <state x="699" y="31" width="732" height="833" key="new project wizard" timestamp="1584483905730">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="699" y="31" width="732" height="833" key="new project wizard/0.0.1504.963@0.0.1504.963" timestamp="1584483905730" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1587860066011">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1587860066011" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReferenceSmallDS.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
